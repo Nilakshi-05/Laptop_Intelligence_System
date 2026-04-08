@@ -43,10 +43,7 @@ var/
 .DS_Store
 Thumbs.db
 
-# Data files (optional – remove if you want to track them)
-data/
-*.csv
-*.xlsx
+
 
 # Model files
 *.pkl
