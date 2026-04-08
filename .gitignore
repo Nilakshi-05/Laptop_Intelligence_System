@@ -43,7 +43,7 @@ var/
 .DS_Store
 Thumbs.db
 
-
+data/raw_data/
 
 # Model files
 *.pkl
