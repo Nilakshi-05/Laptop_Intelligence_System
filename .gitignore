@@ -45,11 +45,6 @@ Thumbs.db
 
 data/raw_data/
 
-# Model files
-*.pkl
-*.joblib
-*.h5
-
 # Temporary files
 *.tmp
 *.temp#those files jisko hum github pr push nhi krte -> put their names into gitignore
